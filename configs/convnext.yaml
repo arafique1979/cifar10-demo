@@ -1,0 +1,5 @@
+model_name: "convnext"
+epochs: 5
+batch_size: 128
+lr: 0.001
+save_path: "checkpoints/convnext.pth"
