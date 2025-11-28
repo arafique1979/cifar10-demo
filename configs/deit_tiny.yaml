@@ -1,5 +1,5 @@
 model_name: "deit_tiny"
-epochs: 5
+epochs: 10
 batch_size: 128
-lr: 0.001
+lr: 0.0005
 save_path: "checkpoints/deit_tiny.pth"
