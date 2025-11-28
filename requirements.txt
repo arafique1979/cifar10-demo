@@ -1,0 +1,8 @@
+torch
+torchvision
+tqdm
+PyYAML
+tensorboard
+torchinfo
+matplotlib
+scikit-learn
